@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -33,9 +33,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 I did not encounter any challenges while building the app.
 
+Things that can be done to improve the apps functionality is allowing the user to be able to set a deadline for each tasks, edit the task, create a better UI, or have checkboxes for each task to show if they have been completed or not.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Christine Deng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
